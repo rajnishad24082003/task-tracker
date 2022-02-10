@@ -1,0 +1,22 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container
+{
+    border:black solid 2px;
+    padding: 0.5rem;
+    text-align: center;
+    margin: 5rem auto;
+    
+}
+.todo
+{
+    width: 30vw;
+    min-height: 20vh;
+}
+.completed
+{
+    width: 30vw;
+   min-height: 20vh;
+}
